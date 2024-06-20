@@ -1,0 +1,7 @@
+C:\Users\Reem\Desktop\مشروع OS\r\r\bin\Debug\r.exe.config
+C:\Users\Reem\Desktop\مشروع OS\r\r\bin\Debug\r.exe
+C:\Users\Reem\Desktop\مشروع OS\r\r\bin\Debug\r.pdb
+C:\Users\Reem\Desktop\مشروع OS\r\r\obj\Debug\r.csprojAssemblyReference.cache
+C:\Users\Reem\Desktop\مشروع OS\r\r\obj\Debug\r.csproj.CoreCompileInputs.cache
+C:\Users\Reem\Desktop\مشروع OS\r\r\obj\Debug\r.exe
+C:\Users\Reem\Desktop\مشروع OS\r\r\obj\Debug\r.pdb

@@ -1,0 +1,11 @@
+File: rt.txt
+File: 44
+File: r.exe
+File: r.pdb
+File: a.txt
+File: b.docx
+File: d.docx
+Folder: c
+Folder: b
+Folder: a
+File: r.exe.config
